@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá 👋, aqui é o Fernando J Silva
+### Sou Docente do Senac Campinas
+### Curso Técnico de Informática para Internet
+### Qualificações Profissionais de Frontend, Backend e Mobile
 
-<!--
-**fernandojsilvasenac/fernandojsilvasenac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ensinando Tecnologias
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Já publiquei como instrutor
+<div>
+<a href="https://github.com/fernandojsilvasenac">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandojsilvasenac&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandojsilvasenac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
