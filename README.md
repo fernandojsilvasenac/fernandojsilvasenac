@@ -1,9 +1,11 @@
 ## Olá 👋, aqui é o Fernando J Silva
 ### Sou Docente do Senac Campinas
 
-### Curso Técnico de Informática (Qualificação Sistemas [620h] ) e 
+## Ensinando Tecnologias no Senac Campinas
+### Curso Técnico de Informática (Qualificação Sistemas [620h] ) 
+[Conheça o curso de TI](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica)
 ### Curso Técnico Informática para Internet (Qualificação em Frontend [264h], Backend [428h] e Mobile [308h])
-[Conheça o curso](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica-para-internet)
+[Conheça o curso de TII](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica-para-internet)
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
