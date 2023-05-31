@@ -3,7 +3,10 @@
 ### Curso Técnico de Informática para Internet
 ### Qualificações Profissionais de Frontend, Backend e Mobile
 
-## Ensinando Tecnologias
+### Curso Técnico de Informática (Qualificação Sistemas [620h] ) e 
+### Curso Técnico Informática para Internet (Qualificação em Frontend [264h], Backend [428h] e Mobile [308h])
+[Conheça o curso](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica-para-internet)
+
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
