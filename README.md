@@ -1,7 +1,5 @@
 ## Olá 👋, aqui é o Fernando J Silva
 ### Sou Docente do Senac Campinas
-### Curso Técnico de Informática para Internet
-### Qualificações Profissionais de Frontend, Backend e Mobile
 
 ### Curso Técnico de Informática (Qualificação Sistemas [620h] ) e 
 ### Curso Técnico Informática para Internet (Qualificação em Frontend [264h], Backend [428h] e Mobile [308h])
