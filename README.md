@@ -65,17 +65,36 @@
 
 <div>
   
-![NESTJS](https://img.shields.io/badge/-NESTJS-05122A?style=flat&logo=nestjs)
-![PRISMA](https://img.shields.io/badge/-PRISMA-05122A?style=flat&logo=prisma)
 ![PYTHON](https://img.shields.io/badge/-PYHTON-05122A?style=flat&logo=python)
+![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-05122A?style=flat&logo=next.js)
+![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)
+            
+</div>
+
+### Tenho interesse
+
+<div>
+  
+![NESTJS](https://img.shields.io/badge/-NESTJS-05122A?style=flat&logo=nestjs)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker)
 ![KUBERNETES](https://img.shields.io/badge/-KUBERNETES-05122A?style=flat&logo=kubernetes)
 ![DJANGO](https://img.shields.io/badge/-DJANGO-05122A?style=flat&logo=django)
-![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-05122A?style=flat&logo=next.js)
-![JEST](https://img.shields.io/badge/-JEST-05122A?style=flat&logo=jest)
-![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)
             
-  </div>
+</div>
+
+
+#### Aprendizado contínuo
+<div>
+          
+![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=react)&nbsp;
+![REACT NATIVE](https://img.shields.io/badge/-REACTNATIVE-05122A?style=flat&logo=react)&nbsp;
+![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-05122A?style=flat&logo=next.js)&nbsp;
+![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![JEST](https://img.shields.io/badge/-JEST-05122A?style=flat&logo=jest)
+![PRISMA](https://img.shields.io/badge/-PRISMA-05122A?style=flat&logo=prisma)
+          
+</div>
+
 
 ## Já publiquei como instrutor
 <div>
