@@ -3,9 +3,12 @@
 
 ## Ensinando Tecnologias no Senac Campinas
 ### Curso Técnico de Informática (Qualificação Sistemas [620h] ) 
-[Conheça o curso de TI](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica)
+[Conheça o curso TI](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica)
 ### Curso Técnico Informática para Internet (Qualificação em Frontend [264h], Backend [428h] e Mobile [308h])
-[Conheça o curso de TII](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica-para-internet)
+[Conheça o curso TII](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica-para-internet)
+### Curso Técnico em Desenvolvimento de Sistemas (Projeto de Sistemas, Banco de Dados, Desenvolvimento Desktop, Web e Mobile = 1200h)
+[Conheça o curso TDS](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-desenvolvimento-de-sistemas)
+
 
 #### Area Frontend
 <div>
@@ -26,6 +29,9 @@
           
 ![NODEJS](https://img.shields.io/badge/-NODEJS-05122A?style=flat&logo=node.js)
 ![EXPRESS](https://img.shields.io/badge/-EXPRESS-05122A?style=flat&logo=express)
+![NESTJS](https://img.shields.io/badge/-NESTJS-05122A?style=flat&logo=nestjs)
+![FASTIFY](https://img.shields.io/badge/-FASTIFY-05122A?style=flat&logo=fastify)
+
 
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-05122A?style=flat&logo=postgresql)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)
@@ -76,7 +82,6 @@
 
 <div>
   
-![NESTJS](https://img.shields.io/badge/-NESTJS-05122A?style=flat&logo=nestjs)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker)
 ![KUBERNETES](https://img.shields.io/badge/-KUBERNETES-05122A?style=flat&logo=kubernetes)
 ![DJANGO](https://img.shields.io/badge/-DJANGO-05122A?style=flat&logo=django)
