@@ -85,6 +85,7 @@
 ![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker)
 ![KUBERNETES](https://img.shields.io/badge/-KUBERNETES-05122A?style=flat&logo=kubernetes)
 ![DJANGO](https://img.shields.io/badge/-DJANGO-05122A?style=flat&logo=django)
+![GOLANG](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go)
             
 </div>
 
