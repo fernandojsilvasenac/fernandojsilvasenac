@@ -30,15 +30,21 @@
 ![NODEJS](https://img.shields.io/badge/-NODEJS-05122A?style=flat&logo=node.js)
 ![EXPRESS](https://img.shields.io/badge/-EXPRESS-05122A?style=flat&logo=express)
 ![NESTJS](https://img.shields.io/badge/-NESTJS-05122A?style=flat&logo=nestjs)
-![FASTIFY](https://img.shields.io/badge/-FASTIFY-05122A?style=flat&logo=fastify)
+![PYTHON](https://img.shields.io/badge/-PYHTON-05122A?style=flat&logo=python)
+![DJANGO](https://img.shields.io/badge/-DJANGO-05122A?style=flat&logo=django)
+![FLASK](https://img.shields.io/badge/-FLASK-05122A?style=flat&logo=flask)
 
 
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-05122A?style=flat&logo=postgresql)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)
-![SEQUELIZE](https://img.shields.io/badge/-SEQUELIZE-05122A?style=flat&logo=sequelize)
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-05122A?style=flat&logo=firebase)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-05122A?style=flat&logo=mongodb)
 ![SUPABASE](https://img.shields.io/badge/-SUPABASE-05122A?style=flat&logo=supabase)
+
+![PRISMA](https://img.shields.io/badge/-PRISMA-05122A?style=flat&logo=prisma)
+![SEQUELIZE](https://img.shields.io/badge/-SEQUELIZE-05122A?style=flat&logo=sequelize)
+![DRIZZLE](https://img.shields.io/badge/-DRIZZLE-05122A?style=flat&logo=drizzle)
+
           
 </div>
 
@@ -72,9 +78,12 @@
 
 <div>
   
-![PYTHON](https://img.shields.io/badge/-PYHTON-05122A?style=flat&logo=python)
+
 ![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-05122A?style=flat&logo=next.js)
-![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)
+![DJANGO](https://img.shields.io/badge/-DJANGO-05122A?style=flat&logo=django)
+![GOLANG](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go)
+![FASTIFY](https://img.shields.io/badge/-FASTIFY-05122A?style=flat&logo=fastify)
+![NESTJS](https://img.shields.io/badge/-NESTJS-05122A?style=flat&logo=nestjs)
             
 </div>
 
@@ -84,8 +93,6 @@
   
 ![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker)
 ![KUBERNETES](https://img.shields.io/badge/-KUBERNETES-05122A?style=flat&logo=kubernetes)
-![DJANGO](https://img.shields.io/badge/-DJANGO-05122A?style=flat&logo=django)
-![GOLANG](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go)
             
 </div>
 
@@ -98,6 +105,7 @@
 ![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-05122A?style=flat&logo=next.js)&nbsp;
 ![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![JEST](https://img.shields.io/badge/-JEST-05122A?style=flat&logo=jest)
+![DRIZZLE](https://img.shields.io/badge/-DRIZZLE-05122A?style=flat&logo=drizzle)
 ![PRISMA](https://img.shields.io/badge/-PRISMA-05122A?style=flat&logo=prisma)
           
 </div>
